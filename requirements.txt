@@ -5,6 +5,7 @@ langchain
 langchain-groq
 langchain-community
 langchain-tavily
+langchain-ollama
 psycopg[binary]
 psycopg_pool
 python-dotenv
